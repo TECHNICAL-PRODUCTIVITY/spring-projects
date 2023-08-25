@@ -6,3 +6,4 @@ MinIO is an open-source platform that functions similarly to AWS S3 buckets. Wit
 
 It is possible to integrate Spring Boot with MinIO for enhanced functionality and storage capabilities.
 
+More Details here: https://technical-productivity.blogspot.com/2023/08/springboot-minio-integration.html?m=1
